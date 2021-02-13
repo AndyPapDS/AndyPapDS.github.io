@@ -9,7 +9,7 @@ name: Andreas Papaioannou Data Visualization
 description: KU Leuven Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://thumbs.dreamstime.com/b/big-data-analytics-bi-business-intelligence-concept-chart-graph-icons-virtual-screen-big-data-analytics-bi-business-126811848.jpg
+avatar: https://avatars.githubusercontent.com/u/78828722?s=460&u=f0e204aa181256d792622225316521df8eb0df31&v=4
 
 #
 # Flags below are optional
@@ -22,8 +22,8 @@ footer-links:
   facebook:
   flickr:
   github: andypapds
-  instagram:
-  linkedin:
+  instagram: https://www.instagram.com/a_papaioannou/
+  linkedin: https://www.linkedin.com/in/andreas-papaioannou-98283a12a/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
