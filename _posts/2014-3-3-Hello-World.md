@@ -12,4 +12,3 @@ published: true
 1.bars1
 2.charts
 3.pies
-
